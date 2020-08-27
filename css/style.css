@@ -148,6 +148,27 @@ div.bio div.button:hover, div.bio div.button:focus, div.bio div.button:active  {
     padding-left: 50vw;
 }
 
+#jobs div.card {
+
+}
+
+#jobs div.card description {
+
+}
+
+#jobs div.card div.title_date {
+
+}
+
+#jobs div.card div.title_date h1 {
+
+}
+
+#jobs div.card div.title_date h2 {
+
+}
+
+
 #contact div.links {
     /* position: absolute;
     left: 50%;
