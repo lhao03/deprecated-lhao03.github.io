@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://haolucy.tech/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haolucy.tech/classes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haolucy.tech/failures/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haolucy.tech/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://haolucy.tech/categories/</loc>
   </url>
   
