@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lhao03.github.io/about/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lhao03.github.io/classes/</loc>
     <priority>0</priority>
   </url>
@@ -19,6 +14,11 @@
   
   <url>
     <loc>https://lhao03.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lhao03.github.io/work/</loc>
     <priority>0</priority>
   </url>
   
