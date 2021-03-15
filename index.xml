@@ -6,9 +6,28 @@
     <description>Recent content on Lucy Hao | UBC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 13 Mar 2021 22:14:57 -0600</lastBuildDate>
     
 	<atom:link href="https://lhao03.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>✨ Welcome To My Blog</title>
+      <link>https://lhao03.github.io/blog/new/</link>
+      <pubDate>Sat, 13 Mar 2021 22:14:57 -0600</pubDate>
+      
+      <guid>https://lhao03.github.io/blog/new/</guid>
+      <description>&lt;p&gt;Hello! Thank you 😌 for checking out my blog.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>📚 Course Review</title>
+      <link>https://lhao03.github.io/blog/course-review/</link>
+      <pubDate>Sat, 13 Mar 2021 22:14:57 -0600</pubDate>
+      
+      <guid>https://lhao03.github.io/blog/course-review/</guid>
+      <description>&lt;p&gt;As a computer science student minoring in biochemistry, you can expect me to have taken a wide range of courses from data structures and algorithms to environmental microbiology. So I thought, hey let&amp;rsquo;s review some courses!&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
