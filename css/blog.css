@@ -106,6 +106,16 @@ div.post ul li a:hover {
     background-color: var(--darker);
 }
 
+div.post a {
+    text-decoration: underline;
+    text-decoration-color: var(--darker);
+    color: black;
+}
+
+div.post a:hover {
+    background-color: var(--darker);
+}
+
 div.post h1 {
 
 }

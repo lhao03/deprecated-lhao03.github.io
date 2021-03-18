@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cs on Lucy Hao | UBC</title>
+    <link>https://lhao03.github.io/tags/cs/</link>
+    <description>Recent content in cs on Lucy Hao | UBC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Mar 2021 22:14:57 -0600</lastBuildDate>
+    
+	<atom:link href="https://lhao03.github.io/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>📚 Course Review</title>
+      <link>https://lhao03.github.io/blog/course-review/</link>
+      <pubDate>Sat, 13 Mar 2021 22:14:57 -0600</pubDate>
+      
+      <guid>https://lhao03.github.io/blog/course-review/</guid>
+      <description>&lt;p&gt;As a computer science student minoring in biochemistry, you can expect me to have taken a wide range of courses from data structures and algorithms to environmental microbiology. So I thought, hey let&amp;rsquo;s review some courses!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
