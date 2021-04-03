@@ -11,9 +11,9 @@
 
 :root {
     --font : 'Montserrat';
-    --light: #BCD2EE;
-    --dark: #EE5622;
-    --darker: #938BA1;
+    --light: #D0E1D4;
+    --dark: #e75480; 
+    --darker: #36827F;
 
     --background: var(--light) !important;
     --highlight: var(--dark) !important;

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ubc on Lucy Hao | Computer Science Student at UBC</title>
-    <link>https://lhao03.github.io/tags/ubc/</link>
-    <description>Recent content in ubc on Lucy Hao | Computer Science Student at UBC</description>
+    <title>ib on Lucy Hao | Computer Science Student at UBC</title>
+    <link>https://lhao03.github.io/tags/ib/</link>
+    <description>Recent content in ib on Lucy Hao | Computer Science Student at UBC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Apr 2021 22:14:57 -0600</lastBuildDate>
     
-	<atom:link href="https://lhao03.github.io/tags/ubc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lhao03.github.io/tags/ib/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://lhao03.github.io/blog/ib/</guid>
       <description>&lt;p&gt;So you&amp;rsquo;re taking some IB courses? Don&amp;rsquo;t throw all your hard work away if you&amp;rsquo;re going to UBC! Or maybe you&amp;rsquo;re deciding if you should take IB. Getting course credit for taking IB classes can save you a lot of time and money. I&amp;rsquo;ll now tell you how I used my IB credits and mistakes I&amp;rsquo;ve made in choosing my courses as a first year student.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>📚 Course Review</title>
-      <link>https://lhao03.github.io/blog/course-review/</link>
-      <pubDate>Sat, 13 Mar 2021 22:14:57 -0600</pubDate>
-      
-      <guid>https://lhao03.github.io/blog/course-review/</guid>
-      <description>&lt;p&gt;As a computer science student minoring in biochemistry, you can expect me to have taken a wide range of courses from data structures and algorithms to environmental microbiology. So I thought, hey let&amp;rsquo;s review some courses!&lt;/p&gt;</description>
     </item>
     
   </channel>
