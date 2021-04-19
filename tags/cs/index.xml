@@ -6,10 +6,19 @@
     <description>Recent content in cs on Lucy Hao | Computer Science Student at UBC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Mar 2021 22:14:57 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 18 Apr 2021 22:14:57 -0600</lastBuildDate>
     
 	<atom:link href="https://lhao03.github.io/tags/cs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>🧬 Why Biochemistry and Computer Science?</title>
+      <link>https://lhao03.github.io/blog/cs-bchem/</link>
+      <pubDate>Sun, 18 Apr 2021 22:14:57 -0600</pubDate>
+      
+      <guid>https://lhao03.github.io/blog/cs-bchem/</guid>
+      <description>&lt;p&gt;In high school, I joined the robotics team on a whim. When I learned that you had to use C++ to program the robot, I dropped out of the robotics team.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>📚 Course Review</title>
