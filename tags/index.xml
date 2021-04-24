@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Lucy Hao | Computer Science Student at UBC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Apr 2021 22:14:57 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lhao03.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>academia</title>
+      <link>https://lhao03.github.io/tags/academia/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lhao03.github.io/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cs</title>
+      <link>https://lhao03.github.io/tags/cs/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lhao03.github.io/tags/cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ta</title>
+      <link>https://lhao03.github.io/tags/ta/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lhao03.github.io/tags/ta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>biochemistry</title>
@@ -17,15 +44,6 @@
       <pubDate>Sun, 18 Apr 2021 22:14:57 -0600</pubDate>
       
       <guid>https://lhao03.github.io/tags/biochemistry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cs</title>
-      <link>https://lhao03.github.io/tags/cs/</link>
-      <pubDate>Sun, 18 Apr 2021 22:14:57 -0600</pubDate>
-      
-      <guid>https://lhao03.github.io/tags/cs/</guid>
       <description></description>
     </item>
     
